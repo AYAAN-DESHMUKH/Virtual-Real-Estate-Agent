@@ -1,0 +1,262 @@
+pincode_rate_adjustments = {
+    '400001': 8.0,  # Mumbai Fort
+    '400002': 4.20,  # Mumbai Dhobi Talao
+    '400003': 5.18,  # Mumbai Kalbadevi
+    '400004': 4.22,  # Mumbai Girgaon
+    '411001': 1.15,  # Pune Shivajinagar
+    '411002': 1.10,  # Pune Ganeshkhind
+    '440001': 1.12,  # Nagpur
+    '431116': 1.05,
+    '423701': 1.02,
+    '431133': 1.08,
+    '413207': 1.03,
+    '431523': 1.07,
+    '431517': 1.06,
+    '414203': 1.04,
+    '431518': 1.08,
+    '431122': 1.06,
+    '431126': 1.04,
+    '431128': 1.07,
+    '431127': 1.05,
+    '431519': 1.09,
+    '431143': 1.03,
+    '414202': 1.04,
+    '414208': 1.06,
+    '431123': 1.05,
+    '431142': 1.06,
+    '431124': 1.07,
+    '431131': 1.08,
+    '431125': 1.07,
+    '431515': 1.05,
+    '431520': 1.09,
+    '414204': 1.02,
+    '413229': 1.04,
+    '414205': 1.05,
+    '413249': 1.06,
+    '431129': 1.06,
+    '431130': 1.07,
+    '431530': 1.05,
+    '431701': 1.06,
+    '431705': 1.08,
+    '431703': 1.06,
+    '431513': 1.07,
+    '431702': 1.05,
+    '431117': 1.08,
+    '431204': 1.07,
+    '431212': 1.06,
+    '431202': 1.04,
+    '431150': 1.09,
+    '431113': 1.06,
+    '431114': 1.08,
+    '431209': 1.05,
+    '431206': 1.07,
+    '431203': 1.04,
+    '431213': 1.05,
+    '431211': 1.06,
+    '431118': 1.07,
+    '431207': 1.05,
+    '431132': 1.04,
+    '431112': 1.07,
+    '431135': 1.06,
+    '431120': 1.05,
+    '431208': 1.07,
+    '431205': 1.06,
+    '413515': 1.08,
+    '413522': 1.04,
+    '413520': 1.06,
+    '413511': 1.05,
+    '413513': 1.07,
+    '413521': 1.09,
+    '413532': 1.06,
+    '413607': 1.07,
+    '413516': 1.08,
+    '413523': 1.05,
+    '413527': 1.07,
+    '413512': 1.05,
+    '413510': 1.06,
+    '413524': 1.04,
+    '413521': 1.09,
+    '413530': 1.07,
+    '431522': 1.05,
+    '413527': 1.08,
+    '413544': 1.06,
+    '413514': 1.07,
+    '413531': 1.06,
+    '413517': 1.05,
+    '413518': 1.07,
+    '413529': 1.09,
+    '431704': 1.06,
+    '431801': 1.07,
+    '431710': 1.08,
+    '431603': 1.07,
+    '431717': 1.09,
+    '431809': 1.05,
+    '431712': 1.07,
+    '431802': 1.05,
+    '410206':1.10,
+    '431604': 1.06,
+    '431714': 1.07,
+    '431804': 1.06,
+    '431708': 1.07,
+    '431721': 1.08,
+    '431806': 1.07,
+    '431815': 1.05,
+    '431709': 1.07,
+    '431601': 1.06,
+    '431602': 1.05,
+    '431606': 1.07,
+    '431605': 1.05,
+    '431512': 1.06,
+    '431508': 1.07,
+    '431521': 1.09,
+    '431514': 1.06,
+    '431509': 1.08,
+    '431505': 1.07,
+    '431402': 1.06,
+    '431720': 1.05,
+    '431401': 1.07,
+    '431506': 1.05,
+    '431537': 1.07,
+    '431511': 1.05,
+    '431541': 1.07,
+    '431536': 1.06,
+    '431503': 1.07,
+    '431542': 1.08,
+    '431516': 1.09,
+    '431510': 1.05,
+    '431540': 1.08,
+    '442705': 1.06,
+    '442703': 1.07,
+    '442914': 1.08,
+    '441208': 1.05,
+    '442707': 1.06,
+    '444917': 1.07,
+    '442403': 1.06,
+    '442901': 1.09,
+    '442707': 1.06,
+    '441226': 1.07,
+    '442902': 1.06,
+    '441206': 1.05,
+    '442502': 1.07,
+    '442603': 1.06,
+    '442402': 1.05,
+    '442501': 1.08,
+    '442404': 1.07,
+    '442908': 1.06,
+    '442903': 1.09,
+    '441207': 1.06,
+    '442606': 1.07,
+    '442704': 1.06,
+    '442604': 1.08,
+    '442505': 1.07,
+    '442702': 1.06,
+    '442507': 1.09,
+    '442709': 1.06,
+    '441209': 1.08,
+    '442910': 1.05,
+    '442406': 1.06,
+    '441224': 1.07,
+    '441205': 1.05,
+    '442912': 1.08,
+    '441223': 1.06,
+    '442904': 1.07,
+    '441215': 1.08,
+    '442506': 1.07,
+    '441212': 1.09,
+    '442905': 1.06,
+    '441225': 1.07,
+    '442706': 1.08,
+    '442906': 1.06,
+    '442503': 1.08,
+    '441222': 1.05,
+    '442504': 1.06,
+    '441217': 1.07,
+    '442916': 1.06,
+    '441227': 1.05,
+    '442907': 1.07,
+    '425101': 1.05,
+    '425102': 1.06,
+    '425115': 1.08,
+    '425001': 1.06,
+    '425003': 1.07,
+    '425002': 1.08,
+    '425116': 1.07,
+    '425115': 1.06,
+    '425103': 1.08,
+    '425104': 1.07,
+    '425420': 1.06,
+    '425401': 1.08,
+    '410208':1.05,
+    '425402': 1.05,
+    '425303': 1.07,
+    '425108': 1.06,
+    '425304': 1.08,
+    '425201': 1.05,
+    '425203': 1.06,
+    '425310': 1.07,
+    '410208': 1.10
+}
+
+
+
+def predict_price():
+    # Gather inputs from the entries
+    area = float(area_entry.get())
+    bedrooms = int(bedrooms_entry.get())
+    bathrooms = int(bathrooms_entry.get())
+    mainroad = 1 if mainroad_entry.get().strip().lower() == 'yes' else 0
+    guestroom = 1 if guestroom_entry.get().strip().lower() == 'yes' else 0
+    basement = 1 if basement_entry.get().strip().lower() == 'yes' else 0
+    hotwaterheating = 1 if hotwaterheating_entry.get().strip().lower() == 'yes' else 0
+    airconditioning = 1 if airconditioning_entry.get().strip().lower() == 'yes' else 0
+    prefarea = 1 if prefarea_entry.get().strip().lower() == 'yes' else 0
+    stories = int(stories_entry.get())
+    parking = int(parking_entry.get())
+    furnishingstatus = {'furnished': 2, 'semi-furnished': 1, 'unfurnished': 0}[furnishingstatus_entry.get().strip().lower()]
+    
+    # Process postal code
+    pincode = pincode_entry.get().strip()  # Get the postal code as a string
+
+    # Adjustment rates based on postal codes
+    pincode_rate_adjustments = {
+        '400001': 8.0,  # Mumbai Fort
+        '400002': 4.20,  # Mumbai Dhobi Talao
+        '400003': 5.18,  # Mumbai Kalbadevi
+        '400004': 4.22,  # Mumbai Girgaon
+        '411001': 1.15,  # Pune Shivajinagar
+        '411002': 1.10,  # Pune Ganeshkhind
+        '440001': 1.12,  # Nagpur
+        # ... Add other postal codes and their rates here ...
+        '410208': 1.10
+    }
+
+    # Default adjustment rate
+    adjustment_rate = pincode_rate_adjustments.get(pincode, 1.0)  # Use 1.0 if not found
+
+    # Create a DataFrame for the input
+    input_data = pd.DataFrame([[area, bedrooms, bathrooms, mainroad, guestroom, basement, 
+                                 hotwaterheating, airconditioning, prefarea, stories, 
+                                 parking, furnishingstatus]], 
+                               columns=X.columns)
+
+    # Scale the input data
+    input_scaled = scaler.transform(input_data)
+
+    # Predict the price
+    predicted_price = model.predict(input_scaled)[0]
+
+    # Apply adjustment rate based on the postal code
+    adjusted_price = predicted_price * adjustment_rate
+
+    # Show the result
+    messagebox.showinfo("Predicted Price", f"The predicted price is: ₹{adjusted_price:.2f}")
+
+
+
+image = Image.open('area.png')
+resized_image = image.resize((700, 800))  # Adjust the width and height as needed
+area_image = ImageTk.PhotoImage(resized_image)
+
+# Display the resized image
+image_label = tk.Label(frame_area, image=area_image, bg='#272727')
+image_label.grid(row=0, column=5, rowspan=2, sticky='ns', padx=(700, 450))
