@@ -14,7 +14,6 @@ from PIL import Image,ImageTk
 
 
 
-
 # Splash screen design
 w = Tk()
 width_of_window = 430
@@ -31,7 +30,11 @@ Frame(w, width=width_of_window, height=height_of_window, bg='#272727').place(x=0
 label1 = Label(w, text='Virtual Real Estate Agent', fg='white', bg='#272727', font=("Game Of Squids", 20, "bold"))
 label1.place(x=50, y=45)
 
-image_original = Image.open('c1.png')
+# Use absolute path to load the image
+import os
+script_dir = os.path.dirname(__file__)
+image_path = os.path.join(script_dir, 'c1.png')
+image_original = Image.open(image_path)
 new_size = (image_original.width // 6, image_original.height // 6)
 image_resized = image_original.resize(new_size)
 image_a = ImageTk.PhotoImage(image_resized)
@@ -49,8 +52,6 @@ for i in range(5):  # Animation loop
     w.update_idletasks()
 
 w.destroy()
-
-
 
 
 # Load the dataset
